@@ -7,8 +7,9 @@ const card = () => {
   return (
     <span>
         <div className='card-container'>
+        <p className='card-text'>PUXADA FRONTAL</p>
         <Icon type={'avatar1'}/>
-        <h1></h1>
+        
         </div>
         
     </span>
